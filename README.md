@@ -308,10 +308,6 @@ graph TD
 
 
 <br/>
-<div align="center">
-  <!-- DYNAMIC RUNNING FOOTER WIDGET -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Design+%7C+Code+%7C+Deploy+%7C+Innovate;Building+Intelligent+AI+Web+Solutions+✨" alt="Footer Animation"/>
-  <br/><br/>
-  <!-- WAVING PURPLE GRADIENT FOOTER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c051a,25:0d081d,60:7c6f9f,85:0d081d,100:0c051a&height=120&section=footer" width="100%"/>
-</div>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d6c0e89-ff4f-4c29-9d90-8c0a0b2d7d4d.gif" width="100%">
+</p>
